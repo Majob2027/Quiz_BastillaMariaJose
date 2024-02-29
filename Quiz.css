@@ -172,11 +172,70 @@
     top: 1950px;
     left: 850px;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 40px;
     color: #ff702a;
     
 
     
 }
 
-.cuadro1
+.titulo2{
+    position: absolute;
+    position: absolute;
+    top: 2050px;
+    left: 550px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 
+    80px;
+    color: #ffffff;
+}
+
+.cuadro1{
+    position: absolute;
+   color: white;
+   background-color: #ffefe8;
+   top: 2300px;
+   left: 200px;
+   width: 450PX;
+   height: 500PX;
+
+}
+.cuadro2{
+    position: absolute;
+   background-color: #ffefe8;
+   font-family: 'Poppins', sans-serif;
+   font-size: 30px;
+   top: 2300px;
+   left: 750px;
+   width: 450PX;
+   height: 500PX;
+}
+.cuadro3{
+    position: absolute;
+   background-color: #ffefe8;
+   font-size: 30px;
+   top: 2300px;
+   left: 1300px;
+   width: 450PX;
+   height: 500PX;
+ 
+}
+
+.servicios{
+    position: absolute;
+    color: #ff702a;
+    top:3000px ;
+    left: 850px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+
+}
+
+.titulo3{
+    position: absolute;
+    top: 3100px;
+    left: 550px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+    color: #ffffff;
+}
