@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+
+.fondo{
+    position: relative;
+    background-color: #1e1d2b;
+    width: 1920px;
+    height: 1090px;
+
+}
+
+
+
+.foods{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    top: 30px;
+    left: 70px;
+    color: #ff702a;
+
+}
+
+.fondo{
+    position: relative;
+    background-color: #1e1d2b;
+    width: 1920px;
+    height: 1090px;
+
+
+}
+.home{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    top: 50px;
+    left: 1100px;
+    color: white;
+}
+.about{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    top: 50px;
+    left: 1250px;
+    color: white;
+
+}
+.menu{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    top: 50px;
+    left: 1400px;
+    color: white;
+
+}
+.service{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    top: 50px;
+    left: 1550px;
+    color: white;
+
+}
+.contact{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    top: 50px;
+    left: 1700px;
+    color: white;
+}
+.titulo{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 140px;
+    top: 300px;
+    left: 200px;
+    color: #ff702a;
+    
+}
+.texto1{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    top: 480px;
+    left: 200px;
+    color: #ffffff;
+    
+}
+.rectangulo{
+    position: relative;
+    background-color: #ff702a;
+    top: 620px;
+    left: 200px;
+    width: 260px;
+    height: 50px;
+}
+.Caja{
+    position: absolute;
+   color: white;
+   background-color: #ff702a;
+   font-family: 'Poppins', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+   top: 630px;
+   left: 200px;
+   width: 260PX;
+   height: 50PX;
+   text-align: center;
+   padding: 10px;
+}
+.imghome{
+    position: absolute;
+    top: 150px;
+    left: 1050px;
+    width: 200px;
+    height: 300px;
+}
+.aboutus{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    top: 1180px;
+    left: 1000px;
+    font-size: 35px;
+    color:#ff702a;
+    
+}
+.texto2{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size:60px ;
+    color:white;
+    top: 1260px;
+    left: 1000px;
+
+}
+.texto3{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 30px;
+    top: 1420px;
+    left: 1000px;
+
+}
+.imgabout{
+    position: absolute;
+    top: 1100px;
+    left: 200px;
+    
+
+}
+
+.Caja2{
+    position: absolute;
+   color: white;
+   background-color: #ff702a;
+   font-family: 'Poppins', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+   top: 1550px;
+   left: 1000px;
+   width: 260PX;
+   height: 50PX;
+   text-align: center;
+   padding: 10px;
+}
+.Foodmenu{
+    position: absolute;
+    top: 1950px;
+    left: 850px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #ff702a;
+    
+
+    
+}
+
+.cuadro1

@@ -1,0 +1,6 @@
+color 1=#ff702a
+color2=#ffffff
+color3=#1e1d2b
+color4=#000000
+color5=#ffefe8
+color6=#2c2b47
