@@ -234,8 +234,29 @@
 .titulo3{
     position: absolute;
     top: 3100px;
-    left: 550px;
+    left: 400px;
     font-family: 'Poppins', sans-serif;
     font-size: 80px;
     color: #ffffff;
+}
+
+.imgorder{
+    position: absolute;
+    top: 3300px;
+    left: 200px;
+
+}
+
+.imgshipping{
+    position: absolute;
+    top: 3300px;
+    left: 800px;
+
+}
+
+.imgdellvered{
+    position: absolute;
+    top: 3300px;
+    left: 1400px;
+
 }
